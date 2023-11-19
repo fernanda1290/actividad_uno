@@ -1,0 +1,16 @@
+[{
+  "_id": {
+    "$oid": "655a82a426c37726a66b41d9"
+  },
+  "posicion1": "los leones",
+  "posicion2": "las estrellas"
+},
+{
+  "_id": {
+    "$oid": "655a8e1526c37726a66b4215"
+  },
+  "posicion1": "los leones",
+  "posicion2": "las estrellas",
+  "posicion3": "los pumas",
+  "posicion4": "las panteras"
+}]

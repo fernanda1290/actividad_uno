@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "655a6a4626c37726a66b41c1"
+  },
+  "nombre": "entrenador",
+  "apellido": "equipo",
+  "edad": 23,
+  "documento_identidad": 123455,
+  "nombre_equipo": "los leones"
+},
+{
+  "_id": {
+    "$oid": "655a8cc626c37726a66b4203"
+  },
+  "nombre": "andres",
+  "apellido": "equipo",
+  "edad": 23,
+  "documento_identidad": 123455,
+  "nombre_equipo": "los tuburones"
+},
+{
+  "_id": {
+    "$oid": "655a8ce226c37726a66b4205"
+  },
+  "nombre": "jimena",
+  "apellido": "equipo",
+  "edad": 23,
+  "documento_identidad": 123455,
+  "nombre_equipo": "nacional"
+},
+{
+  "_id": {
+    "$oid": "655a8d2b26c37726a66b4209"
+  },
+  "nombre": "martina",
+  "apellido": "equipo",
+  "edad": 23,
+  "documento_identidad": 123455,
+  "nombre_equipo": "las estrellas"
+}]

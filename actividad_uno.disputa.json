@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "655a6cce26c37726a66b41d0"
+  },
+  "equipo1": "los leones",
+  "equipo2": "las estrellas",
+  "arbitro": "yonatan",
+  "\"numero_dispuesta\"": 1
+},
+{
+  "_id": {
+    "$oid": "655a8c2326c37726a66b41fa"
+  },
+  "equipo1": "los tiburones",
+  "equipo2": "las pantera",
+  "arbitro": "felipe",
+  "\"numero_dispuesta\"": 2
+},
+{
+  "_id": {
+    "$oid": "655a8c7026c37726a66b4200"
+  },
+  "equipo1": "nacional",
+  "equipo2": "las estrellas",
+  "arbitro": "andres",
+  "\"numero_dispuesta\"": 3
+}]

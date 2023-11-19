@@ -1,0 +1,50 @@
+[{
+  "_id": {
+    "$oid": "655a63dc26c37726a66b41b8"
+  },
+  "nombre": "maria",
+  "apellido": "graciano",
+  "edad": 23,
+  "documento_identidad": 12345,
+  "nombre_equipo": "los leones"
+},
+{
+  "_id": {
+    "$oid": "655a88ef26c37726a66b41e7"
+  },
+  "nombre": "fernanda",
+  "apellido": "montoya",
+  "edad": 23,
+  "documento_identidad": 12345,
+  "nombre_equipo": "los leones"
+},
+{
+  "_id": {
+    "$oid": "655a890226c37726a66b41e9"
+  },
+  "nombre": "mariana",
+  "apellido": "garcia",
+  "edad": 23,
+  "documento_identidad": 12345,
+  "nombre_equipo": "los leones"
+},
+{
+  "_id": {
+    "$oid": "655a898926c37726a66b41eb"
+  },
+  "nombre": "valeria",
+  "apellido": "jimenez",
+  "edad": 23,
+  "documento_identidad": 12345,
+  "nombre_equipo": "los leones"
+},
+{
+  "_id": {
+    "$oid": "655a89a126c37726a66b41ed"
+  },
+  "nombre": "juan",
+  "apellido": "pelaez",
+  "edad": 23,
+  "documento_identidad": 12345,
+  "nombre_equipo": "los leones"
+}]

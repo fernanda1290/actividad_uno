@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "655a690526c37726a66b41bb"
+  },
+  "nombre": "yonatan",
+  "apellido": "guzman",
+  "edad": 30,
+  "documento_identidad": 123456
+},
+{
+  "_id": {
+    "$oid": "655a84e526c37726a66b41dc"
+  },
+  "nombre": "felipe",
+  "apellido": "perez",
+  "edad": 30,
+  "documento_identidad": 123456
+},
+{
+  "_id": {
+    "$oid": "655a851926c37726a66b41de"
+  },
+  "nombre": "andres",
+  "apellido": "sanchez",
+  "edad": 30,
+  "documento_identidad": 123456
+},
+{
+  "_id": {
+    "$oid": "655a860226c37726a66b41e0"
+  },
+  "nombre": "pepito",
+  "apellido": "roble",
+  "edad": 30,
+  "documento_identidad": 123456
+},
+{
+  "_id": {
+    "$oid": "655a863226c37726a66b41e2"
+  },
+  "nombre": "cristian",
+  "apellido": "ramirez",
+  "edad": 30,
+  "documento_identidad": 123456
+}]

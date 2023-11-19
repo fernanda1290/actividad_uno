@@ -1,0 +1,50 @@
+[{
+  "_id": {
+    "$oid": "655a6aa926c37726a66b41c4"
+  },
+  "nombre": "los leones",
+  "cantidad_jugadores": 12,
+  "cantidad_entrenadores": 23,
+  "cuidad": "cali",
+  "categoria": "kids"
+},
+{
+  "_id": {
+    "$oid": "655a6afc26c37726a66b41c7"
+  },
+  "nombre": "las estrellas",
+  "cantidad_jugadores": 12,
+  "cantidad_entrenadores": 23,
+  "cuidad": "medellin",
+  " categoria": "kids"
+},
+{
+  "_id": {
+    "$oid": "655a8baf26c37726a66b41f1"
+  },
+  "nombre": "nacional",
+  "cantidad_jugadores": 12,
+  "cantidad_entrenadores": 23,
+  "cuidad": "medellin",
+  " categoria": "juvenil"
+},
+{
+  "_id": {
+    "$oid": "655a8bca26c37726a66b41f3"
+  },
+  "nombre": "las pantera",
+  "cantidad_jugadores": 12,
+  "cantidad_entrenadores": 23,
+  "cuidad": "cali",
+  "categoria": "juvenil"
+},
+{
+  "_id": {
+    "$oid": "655a8beb26c37726a66b41f5"
+  },
+  "nombre": "los tiburones",
+  "cantidad_jugadores": 12,
+  "cantidad_entrenadores": 23,
+  "cuidad": "cali",
+  "categoria": "juvenil"
+}]

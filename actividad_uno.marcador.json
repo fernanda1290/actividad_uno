@@ -1,0 +1,32 @@
+[{
+  "_id": {
+    "$oid": "655a824826c37726a66b41d6"
+  },
+  "disputa": 1,
+  "marcador_equipo_1": 2,
+  "marcador_equipo_2": 0
+},
+{
+  "_id": {
+    "$oid": "655a8d9a26c37726a66b420f"
+  },
+  "disputa": 2,
+  "marcador_equipo_1": 0,
+  "marcador_equipo_2": 0
+},
+{
+  "_id": {
+    "$oid": "655a8db026c37726a66b4211"
+  },
+  "disputa": 3,
+  "marcador_equipo_1": 1,
+  "marcador_equipo_2": 0
+},
+{
+  "_id": {
+    "$oid": "655a8dd126c37726a66b4213"
+  },
+  "disputa": 4,
+  "marcador_equipo_1": 5,
+  "marcador_equipo_2": 8
+}]
